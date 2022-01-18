@@ -1,0 +1,8 @@
+server:
+  port: 8118
+# 应用名称
+spring:
+  application:
+    name: openshift
+
+
